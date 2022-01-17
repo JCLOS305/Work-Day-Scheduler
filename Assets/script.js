@@ -1,4 +1,3 @@
-
 // Moment.js
 var currentDate = moment().format('dddd') + " " + moment().format("Do MMM YYYY");
 var currentHour = moment().format('h:mm:ss a');
@@ -14,3 +13,7 @@ var fourPm = $("#16pm");
 var fivePm = $("#17pm");
 var sixPm = $("#18pm");
 var sevenPm = $("#19pm");
+
+var hour = moment().hours();
+var userInput;
+var hourSpan;
