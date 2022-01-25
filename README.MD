@@ -34,6 +34,7 @@ For this challenge I was instructed to create a simple calendar application that
  [LINK TO GITHUB HOSTED WEBSITE](https://jclos305.github.io/Work-Day-Scheduler/) <br/> 
 Test/School/Homework Purposes Only
 
+![](Assets\Work Day Scheduler Demo Image.PNG)
 
 
 
