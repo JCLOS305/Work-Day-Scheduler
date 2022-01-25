@@ -1,4 +1,4 @@
-# Third-Party APIs Challenge: Work Day SchedulerCreated by Jeancarlos Mulet w/  🙌 The University of Miami 🙌
+# Third-Party APIs Challenge: Work Day Scheduler Created by Jeancarlos Mulet w/  🙌 The University of Miami 🙌
 
 **Version 1.0.0** 
 
